@@ -337,7 +337,6 @@
 		6A714B9926F8B317004A34A9 /* LPEnumConstants.m in Sources */ = {isa = PBXBuildFile; fileRef = 075AADDF26847EC4007CA1BD /* LPEnumConstants.m */; };
 		6A714B9A26F8B317004A34A9 /* LPExceptionHandler.m in Sources */ = {isa = PBXBuildFile; fileRef = 075AADE526847EC4007CA1BD /* LPExceptionHandler.m */; };
 		6A714B9B26F8B317004A34A9 /* LPJSON.m in Sources */ = {isa = PBXBuildFile; fileRef = 075AAD9D26847EC3007CA1BD /* LPJSON.m */; };
-		6A714B9E26F8B317004A34A9 /* Leanplum-iOS-SDK.bundle in Resources */ = {isa = PBXBuildFile; fileRef = 075AAEEC26847FE1007CA1BD /* Leanplum-iOS-SDK.bundle */; };
 		6A714BA626F8B504004A34A9 /* Leanplum.h in Copy Headers */ = {isa = PBXBuildFile; fileRef = 075AAD2B26847EC3007CA1BD /* Leanplum.h */; };
 		6A714BA726F8B504004A34A9 /* LeanplumSDK.h in Copy Headers */ = {isa = PBXBuildFile; fileRef = 075AAD2126847E60007CA1BD /* LeanplumSDK.h */; };
 		6A714BA826F8B504004A34A9 /* LeanplumCompatibility.h in Copy Headers */ = {isa = PBXBuildFile; fileRef = 075AAD9426847EC3007CA1BD /* LeanplumCompatibility.h */; };
@@ -1591,7 +1590,6 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				6A714B9E26F8B317004A34A9 /* Leanplum-iOS-SDK.bundle in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
